@@ -1,0 +1,7 @@
+{
+ "ip": "pecraftserver.aternos.me",
+ "port": "18256",
+ "name": "botafk",
+ "auto-night-skip": "false",
+ "auto-reconnect": "true"
+}
